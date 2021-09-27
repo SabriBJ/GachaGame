@@ -1,0 +1,23 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2621191170	Player_Lives			\GACHA_STATES\Player_Lives	
+
+State	ID	Name	State Group			Notes
+	0	None	Player_Lives			
+	19277431	LowLife	Player_Lives			
+	529726532	End	Player_Lives			
+	748970704	FullLife	Player_Lives			
+	1346429955	MidLife	Player_Lives			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1006694123	Music_Volume			\BUS_VOLUMES\Music_Volume	
+	1564184899	SFX_Volume			\BUS_VOLUMES\SFX_Volume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	sfx			\Default Work Unit\Master Audio Bus\sfx	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	music			\Default Work Unit\Master Audio Bus\music	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

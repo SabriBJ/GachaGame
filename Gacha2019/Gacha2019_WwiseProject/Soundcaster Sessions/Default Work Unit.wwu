@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{97841D33-5839-4A5E-AAAA-68AEC8C9F395}" SchemaVersion="89">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{97841D33-5839-4A5E-AAAA-68AEC8C9F395}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="TEST MIX" ID="{72D90922-C869-4CE5-9BAA-E0C12AF0FDC2}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_Music" ID="{D5F8B72A-A354-4CDE-87BA-16F218082350}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Portal_Idle" ID="{CC938E3E-4DE0-493A-BC94-FB2B6CF61EB9}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Enemies_Movement" ID="{735A34EE-5613-4705-919E-9C4B491D7D0B}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Torch_Idle" ID="{78EF134E-4310-4ECF-9E04-E0D640BC7A0E}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Player_Shots" ID="{17F026C0-3E06-4E1E-9DD4-0F7401A0CC60}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Enemies_Fusion" ID="{5D726335-2137-4588-8A05-B953ABCFD499}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Player_Drone_Aim" ID="{D60DF13A-98E1-49AD-B3A1-25EB78C05AB7}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Footsteps" ID="{D19A2FEE-CC79-4B17-9613-41A6D5C11D19}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Play_Enemies_Shots" ID="{57C65D6F-A34D-4666-BACD-ACB0DC19A838}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="SFX_Volume" ID="{CC97C2EE-A78C-4046-A01D-9CF1A156BA63}"/>
+							<Value>50</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Music_Volume" ID="{734138B0-C675-4C0E-95FE-C9C195409F56}"/>
+							<Value>50</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="LowLife" ID="{DD45EDF7-5D53-4B91-A249-A50F79FFCD9B}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

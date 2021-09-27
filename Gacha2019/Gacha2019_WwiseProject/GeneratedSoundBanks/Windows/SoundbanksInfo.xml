@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\The Feathered Eye\Documents\GitHub\GaCha2019\Gacha2019\Gacha2019_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\The Feathered Eye\Documents\GitHub\GaCha2019\Gacha2019\Gacha2019_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\The Feathered Eye\Documents\GitHub\GaCha2019\Gacha2019\Gacha2019_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\The Feathered Eye\Documents\GitHub\GaCha2019\Gacha2019\Gacha2019_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="460350457" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\SBK</ObjectPath>
+			<ShortName>SBK</ShortName>
+			<Path>SBK.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1136450133" Name="Play_Enemies_Fusion" ObjectPath="\Events\Default Work Unit\Play_Enemies_Fusion" MaxAttenuation="12.000000"/>
+				<Event Id="2354172050" Name="Play_Enemies_Movement" ObjectPath="\Events\Default Work Unit\Play_Enemies_Movement" MaxAttenuation="12.000000"/>
+				<Event Id="1893986092" Name="Play_Enemies_Shots" ObjectPath="\Events\Default Work Unit\Play_Enemies_Shots" MaxAttenuation="12.000000"/>
+				<Event Id="3854155799" Name="Play_Footsteps" ObjectPath="\Events\Default Work Unit\Play_Footsteps"/>
+				<Event Id="2745347784" Name="Play_Impact_Laser" ObjectPath="\Events\Default Work Unit\Play_Impact_Laser" MaxAttenuation="10.000000"/>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music"/>
+				<Event Id="137489100" Name="Play_Player_Drone_Aim" ObjectPath="\Events\Default Work Unit\Play_Player_Drone_Aim"/>
+				<Event Id="1864892471" Name="Play_Player_Hit" ObjectPath="\Events\Default Work Unit\Play_Player_Hit"/>
+				<Event Id="3890461907" Name="Play_Player_Shots" ObjectPath="\Events\Default Work Unit\Play_Player_Shots"/>
+				<Event Id="686654861" Name="Play_Portal_Idle" ObjectPath="\Events\Default Work Unit\Play_Portal_Idle" MaxAttenuation="12.000000"/>
+				<Event Id="2753042117" Name="Play_Stomp" ObjectPath="\Events\Default Work Unit\Play_Stomp"/>
+				<Event Id="1187918102" Name="Play_Teleportation" ObjectPath="\Events\Default Work Unit\Play_Teleportation"/>
+				<Event Id="2909239993" Name="Play_Torch_Idle" ObjectPath="\Events\Default Work Unit\Play_Torch_Idle" MaxAttenuation="4.000000"/>
+				<Event Id="2837384057" Name="Stop_Music" ObjectPath="\Events\Default Work Unit\Stop_Music" MaxAttenuation="0.000000"/>
+				<Event Id="3724992451" Name="Stop_Portal_Idle" ObjectPath="\Events\Default Work Unit\Stop_Portal_Idle" MaxAttenuation="0.000000"/>
+				<Event Id="3950460727" Name="Stop_Torch_Idle" ObjectPath="\Events\Default Work Unit\Stop_Torch_Idle" MaxAttenuation="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="4316894" Language="SFX">
+					<ShortName>SFX\iMPAT_Lazer_04.wav</ShortName>
+					<Path>SFX\SFX\iMPAT_Lazer_04_56D34C19.wem</Path>
+				</File>
+				<File Id="9494927" Language="SFX">
+					<ShortName>SFX\GA_Ftps_C_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_C_02_56D34C19.wem</Path>
+				</File>
+				<File Id="47858189" Language="SFX">
+					<ShortName>SFX\Laser_Character__05.wav</ShortName>
+					<Path>SFX\SFX\Laser_Character__05_56D34C19.wem</Path>
+				</File>
+				<File Id="54982816" Language="SFX">
+					<ShortName>SFX\Laser_IA__02.wav</ShortName>
+					<Path>SFX\SFX\Laser_IA__02_56D34C19.wem</Path>
+				</File>
+				<File Id="68113101" Language="SFX">
+					<ShortName>SFX\GA_Finish_H_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_H_01_56D34C19.wem</Path>
+				</File>
+				<File Id="79546432" Language="SFX">
+					<ShortName>SFX\GA_Finish_G_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_G_01_56D34C19.wem</Path>
+				</File>
+				<File Id="80629110" Language="SFX">
+					<ShortName>SFX\GA_Drone_Mouv_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Drone_Mouv_01_56D34C19.wem</Path>
+				</File>
+				<File Id="85453763" Language="SFX">
+					<ShortName>SFX\GA_Ftps_A_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_A_04_56D34C19.wem</Path>
+				</File>
+				<File Id="126885228" Language="SFX">
+					<ShortName>SFX\GA_Ftps_E_05.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_E_05_56D34C19.wem</Path>
+				</File>
+				<File Id="130706462" Language="SFX">
+					<ShortName>SFX\GA_Finish_D_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_D_01_56D34C19.wem</Path>
+				</File>
+				<File Id="139384230" Language="SFX">
+					<ShortName>SFX\GA_Ftps_C_05.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_C_05_56D34C19.wem</Path>
+				</File>
+				<File Id="154098217" Language="SFX">
+					<ShortName>SFX\GA_Enemy_Fusion_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Enemy_Fusion_01_56D34C19.wem</Path>
+				</File>
+				<File Id="154186701" Language="SFX">
+					<ShortName>SFX\GA_Ftps_F_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_F_01_56D34C19.wem</Path>
+				</File>
+				<File Id="165931943" Language="SFX">
+					<ShortName>SFX\GA_Ftps_E_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_E_01_56D34C19.wem</Path>
+				</File>
+				<File Id="181490790" Language="SFX">
+					<ShortName>SFX\GA_Finish_H_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_H_03_56D34C19.wem</Path>
+				</File>
+				<File Id="199426005" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_02_56D34C19.wem</Path>
+				</File>
+				<File Id="208945665" Language="SFX">
+					<ShortName>SFX\Laser_IA__05.wav</ShortName>
+					<Path>SFX\SFX\Laser_IA__05_56D34C19.wem</Path>
+				</File>
+				<File Id="215039922" Language="SFX">
+					<ShortName>SFX\GA_Ftps_E_06.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_E_06_56D34C19.wem</Path>
+				</File>
+				<File Id="228125977" Language="SFX">
+					<ShortName>SFX\GA_finish_A_03.wav</ShortName>
+					<Path>SFX\SFX\GA_finish_A_03_56D34C19.wem</Path>
+				</File>
+				<File Id="231410841" Language="SFX">
+					<ShortName>SFX\iMPAT_Lazer_01.wav</ShortName>
+					<Path>SFX\SFX\iMPAT_Lazer_01_56D34C19.wem</Path>
+				</File>
+				<File Id="231480932" Language="SFX">
+					<ShortName>SFX\GA_Ftps_B_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_B_04_56D34C19.wem</Path>
+				</File>
+				<File Id="232402782" Language="SFX">
+					<ShortName>SFX\GA_Drone_Mouv_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Drone_Mouv_04_56D34C19.wem</Path>
+				</File>
+				<File Id="242226754" Language="SFX">
+					<ShortName>SFX\GA_Drone_Mouv_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Drone_Mouv_02_56D34C19.wem</Path>
+				</File>
+				<File Id="242896233" Language="SFX">
+					<ShortName>SFX\Laser_Character__04.wav</ShortName>
+					<Path>SFX\SFX\Laser_Character__04_56D34C19.wem</Path>
+				</File>
+				<File Id="243291753" Language="SFX">
+					<ShortName>SFX\GA_Drone_Mouv_06.wav</ShortName>
+					<Path>SFX\SFX\GA_Drone_Mouv_06_56D34C19.wem</Path>
+				</File>
+				<File Id="266435111" Language="SFX">
+					<ShortName>SFX\GA_Ftps_D_05.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_D_05_56D34C19.wem</Path>
+				</File>
+				<File Id="274725820" Language="SFX">
+					<ShortName>SFX\GA_Enemy_Fusion_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Enemy_Fusion_02_56D34C19.wem</Path>
+				</File>
+				<File Id="277074367" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_05.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_05_56D34C19.wem</Path>
+				</File>
+				<File Id="298659708" Language="SFX">
+					<ShortName>SFX\Laser_IA__04.wav</ShortName>
+					<Path>SFX\SFX\Laser_IA__04_56D34C19.wem</Path>
+				</File>
+				<File Id="310962088" Language="SFX">
+					<ShortName>SFX\GA_Finish_C_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_C_02_56D34C19.wem</Path>
+				</File>
+				<File Id="361826899" Language="SFX">
+					<ShortName>SFX\GA_Hit_Character.wav</ShortName>
+					<Path>SFX\SFX\GA_Hit_Character_56D34C19.wem</Path>
+				</File>
+				<File Id="381630716" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_06.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_06_56D34C19.wem</Path>
+				</File>
+				<File Id="383312528" Language="SFX">
+					<ShortName>SFX\GA_Finish_D_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_D_04_56D34C19.wem</Path>
+				</File>
+				<File Id="398115596" Language="SFX">
+					<ShortName>SFX\GA_finish_A_02.wav</ShortName>
+					<Path>SFX\SFX\GA_finish_A_02_56D34C19.wem</Path>
+				</File>
+				<File Id="400165016" Language="SFX">
+					<ShortName>SFX\GA_Ftps_B_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_B_03_56D34C19.wem</Path>
+				</File>
+				<File Id="407528906" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_04_56D34C19.wem</Path>
+				</File>
+				<File Id="453829146" Language="SFX">
+					<ShortName>SFX\GA_Enemy_Fusion_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Enemy_Fusion_04_56D34C19.wem</Path>
+				</File>
+				<File Id="466695087" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_01_56D34C19.wem</Path>
+				</File>
+				<File Id="475405942" Language="SFX">
+					<ShortName>MUS\GACHA2019_MUS_Death.wav</ShortName>
+					<Path>SFX\MUS\GACHA2019_MUS_Death_8956FC97.wem</Path>
+				</File>
+				<File Id="485653240" Language="SFX">
+					<ShortName>MUS\GACHA2019_MUS_MidLife.wav</ShortName>
+					<Path>SFX\MUS\GACHA2019_MUS_MidLife_8956FC97.wem</Path>
+				</File>
+				<File Id="499206724" Language="SFX">
+					<ShortName>SFX\GA_Ftps_F_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_F_04_56D34C19.wem</Path>
+				</File>
+				<File Id="505085736" Language="SFX">
+					<ShortName>SFX\GA_Ftps_E_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_E_02_56D34C19.wem</Path>
+				</File>
+				<File Id="521432510" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_07.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_07_56D34C19.wem</Path>
+				</File>
+				<File Id="533223582" Language="SFX">
+					<ShortName>SFX\Laser_Character__02.wav</ShortName>
+					<Path>SFX\SFX\Laser_Character__02_56D34C19.wem</Path>
+				</File>
+				<File Id="536987454" Language="SFX">
+					<ShortName>SFX\GA_Ftps_A_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_A_03_56D34C19.wem</Path>
+				</File>
+				<File Id="538732076" Language="SFX">
+					<ShortName>SFX\GA_Drone_Mouv_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Drone_Mouv_03_56D34C19.wem</Path>
+				</File>
+				<File Id="558456607" Language="SFX">
+					<ShortName>SFX\GA_Finish_F_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_F_04_56D34C19.wem</Path>
+				</File>
+				<File Id="564488920" Language="SFX">
+					<ShortName>SFX\GA_Finish_F_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_F_03_56D34C19.wem</Path>
+				</File>
+				<File Id="566150564" Language="SFX">
+					<ShortName>SFX\GA_Finish_E_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_E_04_56D34C19.wem</Path>
+				</File>
+				<File Id="585589508" Language="SFX">
+					<ShortName>SFX\GA_Finish_D_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_D_03_56D34C19.wem</Path>
+				</File>
+				<File Id="590105665" Language="SFX">
+					<ShortName>SFX\GA_Ftps_C_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_C_01_56D34C19.wem</Path>
+				</File>
+				<File Id="605215694" Language="SFX">
+					<ShortName>SFX\GA_Ftps_F_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_F_03_56D34C19.wem</Path>
+				</File>
+				<File Id="611293701" Language="SFX">
+					<ShortName>SFX\Laser_IA__03.wav</ShortName>
+					<Path>SFX\SFX\Laser_IA__03_56D34C19.wem</Path>
+				</File>
+				<File Id="613169448" Language="SFX">
+					<ShortName>SFX\GA_Ftps_A_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_A_01_56D34C19.wem</Path>
+				</File>
+				<File Id="619731269" Language="SFX">
+					<ShortName>SFX\Torche_01.wav</ShortName>
+					<Path>SFX\SFX\Torche_01_8956FC97.wem</Path>
+				</File>
+				<File Id="637161063" Language="SFX">
+					<ShortName>SFX\GA_Ftps_B_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_B_02_56D34C19.wem</Path>
+				</File>
+				<File Id="641528418" Language="SFX">
+					<ShortName>SFX\GA_Ftps_D_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_D_03_56D34C19.wem</Path>
+				</File>
+				<File Id="648407519" Language="SFX">
+					<ShortName>SFX\GA_Finish_E_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_E_03_56D34C19.wem</Path>
+				</File>
+				<File Id="673770654" Language="SFX">
+					<ShortName>SFX\GA_Enemy_Fusion_05.wav</ShortName>
+					<Path>SFX\SFX\GA_Enemy_Fusion_05_56D34C19.wem</Path>
+				</File>
+				<File Id="677799180" Language="SFX">
+					<ShortName>SFX\GA_Finish_H_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_H_04_56D34C19.wem</Path>
+				</File>
+				<File Id="682394436" Language="SFX">
+					<ShortName>SFX\GA_finish_A_01.wav</ShortName>
+					<Path>SFX\SFX\GA_finish_A_01_56D34C19.wem</Path>
+				</File>
+				<File Id="734388352" Language="SFX">
+					<ShortName>SFX\GA_Ftps_F_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_F_02_56D34C19.wem</Path>
+				</File>
+				<File Id="745829514" Language="SFX">
+					<ShortName>SFX\GA_Ftps_D_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_D_02_56D34C19.wem</Path>
+				</File>
+				<File Id="749770200" Language="SFX">
+					<ShortName>SFX\GA_Ftps_D_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_D_04_56D34C19.wem</Path>
+				</File>
+				<File Id="759047174" Language="SFX">
+					<ShortName>SFX\Laser_Character__06.wav</ShortName>
+					<Path>SFX\SFX\Laser_Character__06_56D34C19.wem</Path>
+				</File>
+				<File Id="763114453" Language="SFX">
+					<ShortName>SFX\GA_Finish_F_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_F_01_56D34C19.wem</Path>
+				</File>
+				<File Id="791270526" Language="SFX">
+					<ShortName>MUS\GACHA2019_MUS_LowLife.wav</ShortName>
+					<Path>SFX\MUS\GACHA2019_MUS_LowLife_8956FC97.wem</Path>
+				</File>
+				<File Id="799253081" Language="SFX">
+					<ShortName>SFX\GA_Finish_D_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_D_02_56D34C19.wem</Path>
+				</File>
+				<File Id="802384224" Language="SFX">
+					<ShortName>SFX\GA_Ftps_C_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_C_03_56D34C19.wem</Path>
+				</File>
+				<File Id="811189758" Language="SFX">
+					<ShortName>SFX\GA_Ftps_A_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_A_02_56D34C19.wem</Path>
+				</File>
+				<File Id="824886464" Language="SFX">
+					<ShortName>SFX\GA_finish_A_04.wav</ShortName>
+					<Path>SFX\SFX\GA_finish_A_04_56D34C19.wem</Path>
+				</File>
+				<File Id="833851844" Language="SFX">
+					<ShortName>SFX\GA_Ftps_E_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_E_04_56D34C19.wem</Path>
+				</File>
+				<File Id="837960172" Language="SFX">
+					<ShortName>SFX\GA_Ftps_C_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_C_04_56D34C19.wem</Path>
+				</File>
+				<File Id="838670489" Language="SFX">
+					<ShortName>SFX\GA_Ftps_C_06.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_C_06_56D34C19.wem</Path>
+				</File>
+				<File Id="838926269" Language="SFX">
+					<ShortName>Portal_01.wav</ShortName>
+					<Path>SFX\Portal_01_8956FC97.wem</Path>
+				</File>
+				<File Id="839003762" Language="SFX">
+					<ShortName>SFX\Portal_Activ_01.wav</ShortName>
+					<Path>SFX\SFX\Portal_Activ_01_56D34C19.wem</Path>
+				</File>
+				<File Id="847693493" Language="SFX">
+					<ShortName>SFX\GA_Finish_G_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_G_04_56D34C19.wem</Path>
+				</File>
+				<File Id="861756135" Language="SFX">
+					<ShortName>SFX\GA_Ftps_D_06.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_D_06_56D34C19.wem</Path>
+				</File>
+				<File Id="864123572" Language="SFX">
+					<ShortName>SFX\Laser_IA__01.wav</ShortName>
+					<Path>SFX\SFX\Laser_IA__01_56D34C19.wem</Path>
+				</File>
+				<File Id="873166043" Language="SFX">
+					<ShortName>SFX\GA_Finish_C_04.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_C_04_56D34C19.wem</Path>
+				</File>
+				<File Id="874874641" Language="SFX">
+					<ShortName>SFX\GA_Finish_C_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_C_03_56D34C19.wem</Path>
+				</File>
+				<File Id="885509812" Language="SFX">
+					<ShortName>SFX\GA_Ftps_B_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_B_01_56D34C19.wem</Path>
+				</File>
+				<File Id="920401431" Language="SFX">
+					<ShortName>SFX\Laser_IA__06.wav</ShortName>
+					<Path>SFX\SFX\Laser_IA__06_56D34C19.wem</Path>
+				</File>
+				<File Id="922719822" Language="SFX">
+					<ShortName>MUS\GACHA2019_MUS_FullLife.wav</ShortName>
+					<Path>SFX\MUS\GACHA2019_MUS_FullLife_8956FC97.wem</Path>
+				</File>
+				<File Id="924344389" Language="SFX">
+					<ShortName>SFX\GA_Finish_G_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_G_02_56D34C19.wem</Path>
+				</File>
+				<File Id="934482119" Language="SFX">
+					<ShortName>SFX\Laser_Character__03.wav</ShortName>
+					<Path>SFX\SFX\Laser_Character__03_56D34C19.wem</Path>
+				</File>
+				<File Id="938177719" Language="SFX">
+					<ShortName>SFX\GA_Finish_H_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_H_02_56D34C19.wem</Path>
+				</File>
+				<File Id="949595233" Language="SFX">
+					<ShortName>SFX\Laser_Character__01.wav</ShortName>
+					<Path>SFX\SFX\Laser_Character__01_56D34C19.wem</Path>
+				</File>
+				<File Id="987326379" Language="SFX">
+					<ShortName>SFX\GA_Drone_Mouv_05.wav</ShortName>
+					<Path>SFX\SFX\GA_Drone_Mouv_05_56D34C19.wem</Path>
+				</File>
+				<File Id="989456889" Language="SFX">
+					<ShortName>SFX\GA_Ennemi_Mouv_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ennemi_Mouv_03_56D34C19.wem</Path>
+				</File>
+				<File Id="1000462364" Language="SFX">
+					<ShortName>SFX\iMPAT_Lazer_03.wav</ShortName>
+					<Path>SFX\SFX\iMPAT_Lazer_03_56D34C19.wem</Path>
+				</File>
+				<File Id="1002285529" Language="SFX">
+					<ShortName>SFX\GA_Ftps_D_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_D_01_56D34C19.wem</Path>
+				</File>
+				<File Id="1002429059" Language="SFX">
+					<ShortName>SFX\GA_Finish_E_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_E_02_56D34C19.wem</Path>
+				</File>
+				<File Id="1003881869" Language="SFX">
+					<ShortName>SFX\GA_Finish_F_02.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_F_02_56D34C19.wem</Path>
+				</File>
+				<File Id="1037680064" Language="SFX">
+					<ShortName>SFX\iMPAT_Lazer_02.wav</ShortName>
+					<Path>SFX\SFX\iMPAT_Lazer_02_56D34C19.wem</Path>
+				</File>
+				<File Id="1050423201" Language="SFX">
+					<ShortName>SFX\GA_Finish_E_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_E_01_56D34C19.wem</Path>
+				</File>
+				<File Id="1051942710" Language="SFX">
+					<ShortName>SFX\GA_Finish_G_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_G_03_56D34C19.wem</Path>
+				</File>
+				<File Id="1056823406" Language="SFX">
+					<ShortName>SFX\GA_Finish_C_01.wav</ShortName>
+					<Path>SFX\SFX\GA_Finish_C_01_56D34C19.wem</Path>
+				</File>
+				<File Id="1065415926" Language="SFX">
+					<ShortName>SFX\GA_Enemy_Fusion_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Enemy_Fusion_03_56D34C19.wem</Path>
+				</File>
+				<File Id="1072720214" Language="SFX">
+					<ShortName>SFX\GA_Ftps_E_03.wav</ShortName>
+					<Path>SFX\SFX\GA_Ftps_E_03_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5A48B6CB-FB69-484B-9201-E8CAFDF4E763}" SchemaVersion="89">
+	<States>
+		<WorkUnit Name="GACHA_STATES" ID="{5A48B6CB-FB69-484B-9201-E8CAFDF4E763}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Player_Lives" ID="{9DA8FC77-0CD6-472D-9B98-70F75D02D5DD}">
+					<ChildrenList>
+						<State Name="None" ID="{3BB4DDBD-4E5D-4D55-8B02-4A7F9CBA0DAD}"/>
+						<State Name="FullLife" ID="{8AF363C3-1BBB-4B09-91A2-D1ADEE95745A}"/>
+						<State Name="MidLife" ID="{F160B346-8E57-43A2-9A9C-F2D694D585A6}"/>
+						<State Name="LowLife" ID="{DD45EDF7-5D53-4B91-A249-A50F79FFCD9B}"/>
+						<State Name="End" ID="{01DE2A0D-B6C4-432D-A4C2-6F46CEACDB7D}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

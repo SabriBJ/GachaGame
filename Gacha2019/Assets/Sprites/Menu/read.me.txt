@@ -1,0 +1,3 @@
+Typo : Notable
+Taille : 24px pour les boutons Exit, Menu, Options, Credits
+Taille2 : 48px pour le titre

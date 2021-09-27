@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 014b8c7b555b3fe44819d1f6b2a78b6c, type: 3}
+  m_Name: Sol_270
+  m_EditorClassIdentifier: 
+  m_CellMesh: {fileID: 4300000, guid: 9c71fd38562859c4c93fc58a662758c8, type: 3}
+  m_CellMaterial: {fileID: 2100000, guid: 9c71fd38562859c4c93fc58a662758c8, type: 3}
+  m_CharacterCrossable: 1
+  m_EnemyCrossable: 1

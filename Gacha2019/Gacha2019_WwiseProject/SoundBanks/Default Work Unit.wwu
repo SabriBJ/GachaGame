@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{44FBF719-14C9-4635-B1B7-CBAE9E1D46A1}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{44FBF719-14C9-4635-B1B7-CBAE9E1D46A1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="SBK" ID="{C8B7877F-0461-4222-8F84-AA895F4B80CF}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Stomp" ID="{F98B6236-8325-43EA-9665-50F114293A2F}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="sfx" ID="{7EE3A0B2-5D88-443C-88D0-3877E9FBC037}" WorkUnitID="{5A365A61-537C-4508-B85B-A286FF3F7D14}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Enemies_Fusion" ID="{5D726335-2137-4588-8A05-B953ABCFD499}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Enemies_Shots" ID="{57C65D6F-A34D-4666-BACD-ACB0DC19A838}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Enemies_Movement" ID="{735A34EE-5613-4705-919E-9C4B491D7D0B}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="music" ID="{FEEC5C1A-A44D-4755-97F6-D0E3E729C186}" WorkUnitID="{5A365A61-537C-4508-B85B-A286FF3F7D14}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Impact_Laser" ID="{20BD37BA-4933-4859-8711-BCA7F41C623F}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Portal_Idle" ID="{CC938E3E-4DE0-493A-BC94-FB2B6CF61EB9}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Player_Drone_Aim" ID="{D60DF13A-98E1-49AD-B3A1-25EB78C05AB7}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Music" ID="{0D169092-7B5D-4A9A-B09B-87488846A269}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Footsteps" ID="{D19A2FEE-CC79-4B17-9613-41A6D5C11D19}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Torch_Idle" ID="{C04C4CA4-F303-4B28-A54B-E9861424E909}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Player_Hit" ID="{B2DA95D5-ED77-4C6E-85D3-D967D916400F}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Music" ID="{D5F8B72A-A354-4CDE-87BA-16F218082350}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Player_Shots" ID="{17F026C0-3E06-4E1E-9DD4-0F7401A0CC60}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Torch_Idle" ID="{78EF134E-4310-4ECF-9E04-E0D640BC7A0E}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Teleportation" ID="{52E2D49A-CF6D-4EE7-8422-91DEE6CAE7A5}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Portal_Idle" ID="{0A815D29-02CF-4F23-A4E2-1C635EB98DAD}" WorkUnitID="{2949B062-6EE6-4570-85ED-F95646EBC3D5}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
